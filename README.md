@@ -1,2 +1,2 @@
 # Tableau_Visuals
-[Link](https://public.tableau.com/views/SuperstoreAnalysis_16936234030230/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Superstore](https://public.tableau.com/views/SuperstoreAnalysis_16936234030230/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
